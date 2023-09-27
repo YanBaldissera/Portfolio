@@ -1,78 +1,77 @@
 {
   "name": "Yan Benck Baldissera",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "photo": "https://avatars.githubusercontent.com/u/115998191?v=4",
+  "job": "Estágiario",
+  "location": "Curitiba",
+  "phone": "(41) 99922-7599",
+  "email": "yanbaldissera1@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "JavaScript",
+        "logo": "https://github.com/YanBaldissera/Portfolio/blob/main/data/imgs/js.png"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "Python",
+        "logo": "https://github.com/YanBaldissera/Portfolio/blob/main/data/imgs/python.png"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "name": "GitHub",
+        "logo": "https://github.com/YanBaldissera/Portfolio/blob/main/data/imgs/github.png"
       },
       {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "name": "HTML",
+        "logo": "https://github.com/YanBaldissera/Portfolio/blob/main/data/imgs/html.png"
       },
       {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "Csharp",
+        "logo": "https://github.com/YanBaldissera/Portfolio/blob/main/data/imgs/mysql.png"
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
-      "Trabalho em equipe",
-      "Flexibilidade",
-      "Organização"
+      "Formação JavaScript Developer - DIO.me",
+      "Curso de introdução a AWS -DIO.me",
+      "Conhecimento em MySql",
+      "Curso de Manutenção de Computadores -EGS WEB service"
     ]
   },
   "languages": [
     "Português BR",
     "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Espanhol (básico)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Criação de uma Pokedex em andamento",
+      "url": "https://github.com/YanBaldissera/Pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Criação de um site de viagens para a faculdade",
+      "url": "https://github.com/YanBaldissera/ProjetoViagem",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Estagiário - AMEP – AGÊNCIA DE ASSUNTOS METROPOLITANOS DO PARANÁ",
+      "period": "Junho 2023 - atualmente",
+      "description": "Desenvolvimento Web, desenvolvimento de banco de dados. Assessoria técnica, manutenção de servidor, instalação de softwares e impressoras;"
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Customer Experience Assistant - EBANX",
+      "period": "Fevereiro 2023 - Junho de 2023",
+      "description": "Atendimento, classificação e resolução de problemas de experiência do usuário. Acompanhamento de demandas na jornada do cliente. Relatórios de performance de atendimento em diferentes time frames."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Técnico em Eletrônica - SEGURPRO",
+      "period": "Março 2022 - Dezembro de 2022",
+      "description": "Manutenção e organização de alarmes, vídeos e câmeras, incluindo CFTV. Atendimento e prestação de serviços a rede de farmácias Drogasil/ Drogaraia."
+    },
+    {
+      "name": "Técnico em Eletrônica - NAXSYS(VOLVO DO BRASIL)",
+      "period": "Julho 2021 - Dezembro de 2021",
+      "description": "Manutenção e organização de alarmes, vídeos, rede e câmeras, incluindo CFTV. Responsabilidade pelo estoque em organização, manutenção e cuidado."
     }
   ]
 }
