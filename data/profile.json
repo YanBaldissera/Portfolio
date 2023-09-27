@@ -2,7 +2,7 @@
   "name": "Yan Benck Baldissera",
   "photo": "https://avatars.githubusercontent.com/u/115998191?v=4",
   "job": "Estágiario",
-  "location": "Curitiba",
+  "location": "Curitiba - PR",
   "phone": "(41) 99922-7599",
   "email": "yanbaldissera1@gmail.com",
   "skills": {
@@ -28,7 +28,7 @@
         "logo": "https://github.com/YanBaldissera/Portfolio/blob/main/data/imgs/mysql.png"
       }
     ],
-    "softSkills": [
+    "courses": [
       "Formação JavaScript Developer - DIO.me",
       "Curso de introdução a AWS -DIO.me",
       "Conhecimento em MySql",
