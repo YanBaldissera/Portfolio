@@ -60,7 +60,7 @@ function updateProfessional(profileData) {
 
 function updateCarta(profileData) {
     const carta = document.getElementById('profile.CartaApresentacao')
-    professional.innerHTML = profileData.CartaApresentacao.map(apresentacao => {
+    carta.innerHTML = profileData.CartaApresentacao.map(apresentacao => {
         return `<p>${apresentacao}</p>`
     })
 }
