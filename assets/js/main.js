@@ -23,7 +23,11 @@ function updateProfileInfo(profileData) {
 
 function updateCourses(profileData){
     const courses = document.getElementById('profile.skills.courses')
-    courses.innerHTML = profileData.skills.courses.map(skill => `<li>${skill}</li>`).join('')
+    courses.innerHTML = profileData.skills.courses.map(course => `<li>${course}</li>`).join('')
+}
+
+function updateAbility(profile) {
+    
 }
 
 (async () => {
