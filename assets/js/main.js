@@ -31,9 +31,15 @@ function updateAbility(profileData) {
     ability.innerHTML = profileData.skills.ability.map(ability => `<li><img src="${ability.logo}" alt="${ability.name}" title="${ability.name}"></li>`).join('')
 }
 
+function updateLanguages(profileData){
+    const idioma = document.getElementById("profile.languages")
+    idioma.innerHTML = profileData.languages.map(languages => `<li>${languages} </li>`).join('')
+}
+
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
     updateCourses(profileData)
     updateAbility(profileData)
+    updateLanguages(profileData)
 })()
