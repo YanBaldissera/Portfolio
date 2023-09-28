@@ -58,6 +58,13 @@ function updateProfessional(profileData) {
     }).join('')
 }
 
+function updateCarta(profileData) {
+    const carta = document.getElementById('profile.CartaApresentacao')
+    professional.innerHTML = profileData.CartaApresentacao.map(apresentacao => {
+        return `<p>${apresentacao}</p>`
+    })
+}
+
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
@@ -66,4 +73,5 @@ function updateProfessional(profileData) {
     updateLanguages(profileData)
     updatePortfolio(profileData)
     updateProfessional(profileData)
+    updateCarta(profileData)
 })()
