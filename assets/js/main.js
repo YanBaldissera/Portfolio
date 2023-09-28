@@ -46,6 +46,17 @@ function updatePortfolio(profileData){
     }).join('')
 }
 
+function updateProfessionalExpirience(profileData){
+    const professional = document.getElementById("profile.professionalExperience")
+    professional.innerHTML = profileData.professional.map(experience => {
+        return `<li>
+                    <h3 class="title">${experience.name}</h3>
+                    <p class="period">${experience.period}</p>
+                    <p>${experience.description}</p>
+                </li>` 
+    }).join('')
+}
+
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
@@ -53,4 +64,5 @@ function updatePortfolio(profileData){
     updateAbility(profileData)
     updateLanguages(profileData)
     updatePortfolio(profileData)
+    updateProfessionalExpirience(profileData)
 })()
