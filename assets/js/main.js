@@ -28,7 +28,7 @@ function updateCourses(profileData){
 
 function updateAbility(profileData) {
     const ability = document.getElementById("profile.skills.ability")
-    ability.innerHTML = profileData.skills.courses.map(ability => `<li><img src="${ability.logo}" alt="${ability.name}" title="${ability.name}"></li>`).join('')
+    ability.innerHTML = profileData.skills.ability.map(ability => `<li><img src="${ability.logo}" alt="${ability.name}" title="${ability.name}"></li>`).join('')
 }
 
 (async () => {

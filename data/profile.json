@@ -26,6 +26,10 @@
       {
         "name": "Csharp",
         "logo": "https://raw.githubusercontent.com/YanBaldissera/Portfolio/main/data/imgs/csharp.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/YanBaldissera/Portfolio/main/data/imgs/css.png"
       }
     ],
     "courses": [
