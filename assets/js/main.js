@@ -26,12 +26,14 @@ function updateCourses(profileData){
     courses.innerHTML = profileData.skills.courses.map(course => `<li>${course}</li>`).join('')
 }
 
-function updateAbility(profile) {
-    
+function updateAbility(profileData) {
+    const ability = document.getElementById("profile.skills.ability")
+    ability.innerHTML = profileData.skills.courses.map(ability => `<li><img src="${ability.logo}" alt="${ability.name}" title="${ability.name}"></li>`).join('')
 }
 
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
     updateCourses(profileData)
+    updateAbility(profileData)
 })()

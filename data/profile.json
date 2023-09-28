@@ -9,23 +9,23 @@
     "ability": [
       {
         "name": "JavaScript",
-        "logo": "https://github.com/YanBaldissera/Portfolio/blob/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/YanBaldissera/Portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Python",
-        "logo": "https://github.com/YanBaldissera/Portfolio/blob/main/data/imgs/python.png"
+        "logo": "https://raw.githubusercontent.com/YanBaldissera/Portfolio/main/data/imgs/python.png"
       },
       {
         "name": "GitHub",
-        "logo": "https://github.com/YanBaldissera/Portfolio/blob/main/data/imgs/github.png"
+        "logo": "https://raw.githubusercontent.com/YanBaldissera/Portfolio/main/data/imgs/github.png"
       },
       {
         "name": "HTML",
-        "logo": "https://github.com/YanBaldissera/Portfolio/blob/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/YanBaldissera/Portfolio/main/data/imgs/html.png"
       },
       {
         "name": "Csharp",
-        "logo": "https://github.com/YanBaldissera/Portfolio/blob/main/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/YanBaldissera/Portfolio/main/data/imgs/csharp.png"
       }
     ],
     "courses": [
