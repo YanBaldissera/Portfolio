@@ -46,8 +46,8 @@
   ],
   "portfolio": [
     {
-      "name": "Criação de uma Pokedex em andamento",
-      "url": "https://github.com/YanBaldissera/Pokedex",
+      "name": "Projeto site GTA V desenvolvido no evento da semana do 0 ao programador",
+      "url": "https://yanbaldissera.github.io/Projeto-gta-semana-do-zero-ao-desenvolvedor/",
       "github": true
     },
     {
@@ -56,8 +56,8 @@
       "github": true
     },
     {
-      "name": "Clone do ORKUT",
-      "url": "https://github.com/YanBaldissera/Clone-Orkut",
+      "name": "Projeto escola monstro - teste para troca de classes do css",
+      "url": "https://yanbaldissera.github.io/EscolaMonstro/",
       "github": true
     }
   ],
