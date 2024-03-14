@@ -35,7 +35,7 @@
     "courses": [
       "Formação JavaScript Developer - DIO.me",
       "Curso de introdução a AWS -DIO.me",
-      "Conhecimento em MySql",
+      "Curso de introdução a cibersegurança- Cisco (cursando)",
       "Curso de Manutenção de Computadores -EGS WEB service"
     ]
   },
@@ -56,8 +56,8 @@
       "github": true
     },
     {
-      "name": "Projeto escola monstro - teste para troca de classes do css",
-      "url": "https://yanbaldissera.github.io/EscolaMonstro/",
+      "name": "Projeto para jogadores de RPG de mesa Pathfinder",
+      "url": "https://yanbaldissera.github.io/RPG/",
       "github": true
     }
   ],
